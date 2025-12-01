@@ -1,2 +1,3 @@
-# js_hindi
+# js
+
 A code repo for js
